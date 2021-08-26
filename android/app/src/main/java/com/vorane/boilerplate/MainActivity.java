@@ -1,4 +1,4 @@
-package com.weza.agency;
+package com.vorane.boilerplate;
 
 import com.facebook.react.ReactActivity;
 import org.devio.rn.splashscreen.SplashScreen;
@@ -12,7 +12,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "Agency";
+    return "Starter";
   }
 
 

@@ -1,4 +1,4 @@
-package com.weza.agency; // make sure this is your package name
+package com.vorane.boilerplate; // make sure this is your package name
 
 import android.content.Intent;
 import android.os.Bundle;

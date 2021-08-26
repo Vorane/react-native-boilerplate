@@ -1,4 +1,4 @@
-package com.weza.agency;
+package com.vorane.boilerplate;
 
 import android.app.Application;
 import android.content.Context;

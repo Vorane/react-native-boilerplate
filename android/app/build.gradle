@@ -139,7 +139,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.weza.agency"
+        applicationId "com.vorane.boilerplate"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 4

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "Agency-tvOS.app"
-               BlueprintName = "Agency-tvOS"
-               ReferencedContainer = "container:Agency.xcodeproj">
+               BuildableName = "Starter-tvOS.app"
+               BlueprintName = "Starter-tvOS"
+               ReferencedContainer = "container:Starter.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "Agency-tvOSTests.xctest"
-               BlueprintName = "Agency-tvOSTests"
-               ReferencedContainer = "container:Agency.xcodeproj">
+               BuildableName = "Starter-tvOSTests.xctest"
+               BlueprintName = "Starter-tvOSTests"
+               ReferencedContainer = "container:Starter.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Agency-tvOS.app"
-            BlueprintName = "Agency-tvOS"
-            ReferencedContainer = "container:Agency.xcodeproj">
+            BuildableName = "Starter-tvOS.app"
+            BlueprintName = "Starter-tvOS"
+            ReferencedContainer = "container:Starter.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Agency-tvOS.app"
-            BlueprintName = "Agency-tvOS"
-            ReferencedContainer = "container:Agency.xcodeproj">
+            BuildableName = "Starter-tvOS.app"
+            BlueprintName = "Starter-tvOS"
+            ReferencedContainer = "container:Starter.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
