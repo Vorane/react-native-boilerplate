@@ -5,7 +5,12 @@ import {LOG_OUT_SUCCEEDED} from 'store/Authentication/actionTypes'
 import is from 'is_js'
 
 const initialState = {
-	theme: {...base, ...colorOptions.orange, ...lightTheme, colors: colorOptions},
+	theme: {
+		...base,
+		...colorOptions.blueGray,
+		...lightTheme,
+		colors: colorOptions,
+	},
 	// theme: {...base, ...colorOptions.red, ...darkTheme, colors: colorOptions},
 }
 
