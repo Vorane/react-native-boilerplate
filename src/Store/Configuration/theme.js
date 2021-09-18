@@ -27,7 +27,7 @@ export const base = {
 
 export const darkTheme = {
 	PRIMARY_BACKGROUND_COLOR: '#000',
-	PRIMARY_BACKGROUND_COLOR_LIGHT: '#797979',
+	PRIMARY_BACKGROUND_COLOR_LIGHT: '#1e1e1e',
 
 	SECONDARY_BACKGROUND_COLOR: '#ffffff',
 	SECONDARY_BACKGROUND_COLOR_LIGHT: '#f7f7f7',
@@ -45,7 +45,7 @@ export const darkTheme = {
 
 export const lightTheme = {
 	PRIMARY_BACKGROUND_COLOR: '#ffffff',
-	PRIMARY_BACKGROUND_COLOR_LIGHT: '#f7f7f7',
+	PRIMARY_BACKGROUND_COLOR_LIGHT: '#f2f2f2',
 
 	SECONDARY_BACKGROUND_COLOR: '#3d3d3d',
 	SECONDARY_BACKGROUND_COLOR_LIGHT: '#797979',
@@ -61,7 +61,6 @@ export const lightTheme = {
 
 	BORDER_COLOR: '#e0e0e0',
 }
-
 export const colorOptions = {
 	red: {
 		PRIMARY_COLOR_FAINT: '#FFEBEE',

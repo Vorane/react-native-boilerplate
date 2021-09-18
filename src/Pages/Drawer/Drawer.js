@@ -110,7 +110,7 @@ const MenuListItem = ({
 }
 
 export default function Drawer({navigation, logout, userDetails}) {
-	const {index, routes} = navigation.dangerouslyGetState()
+	const {index, routes} = navigation.getState()
 	const currentRoute = routes[index].name
 
 	return (

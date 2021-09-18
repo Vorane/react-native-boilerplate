@@ -7,7 +7,7 @@ import is from 'is_js'
 const initialState = {
 	theme: {
 		...base,
-		...colorOptions.blueGray,
+		...colorOptions.orange,
 		...lightTheme,
 		colors: colorOptions,
 	},
@@ -17,7 +17,10 @@ const initialState = {
 const configurationPersistConfig = {
 	key: 'configuration',
 	storage: AsyncStorage,
-	blacklist: ['theme'],
+	blacklist: [
+		// TODO: Remove theme from blacklist
+		'theme',
+	],
 }
 
 const configurationReducer = (state = initialState, action = {}) => {
